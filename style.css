@@ -272,6 +272,7 @@ footer img{
     color: white;
     height: 40px;
     width: 50%;
+    border-bottom: solid 2px white; 
 }
 #emailInscricao::placeholder{
     color: white;
